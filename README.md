@@ -1,6 +1,13 @@
 # Where-s-My-Water
+
+
 Video Demo Link: https://youtu.be/KFEhOcZ3WAw
+
+
 DevPost Link: https://devpost.com/software/where-s-my-water-apgu2q
+
+
+
 Inspiration
 Water constitutes 71 percent of our Earth, yet only 3 percent of Earth's water is freshwater. Of the freshwater, only 30 percent of it is groundwater, which is the primary source for human drinking water. Human activities, such as sustained groundwater pumping and pollution can lead to groundwater depletion and can affect groundwater quality. Not only is our source of drinking water affected, but the quality of the land is affected as well. For example, groundwater depletion can lead to surface water bodies, such as lakes, drying out. The rate at which we are using and treating groundwater prompted us to wonder about the future of groundwater resources in the United States. The Data Source We Used: link
 
