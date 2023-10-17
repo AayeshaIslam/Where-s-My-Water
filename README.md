@@ -1,5 +1,6 @@
 # Where-s-My-Water
 
+This project was for UF AI days hackathon and won First Place with 10,000 dollars prize money, and Most Popular Project with 1000 dollars prize money from among 46 projects and 400+ participants
 
 Video Demo Link: https://youtu.be/KFEhOcZ3WAw
 
